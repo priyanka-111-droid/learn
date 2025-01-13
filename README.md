@@ -26,3 +26,7 @@
 - Images are created using [Github Runner Image](https://github.com/actions/runner-images)
 - We will use an Ubuntu image.
 
+
+Doubts:
+- Do we need !bin/sh??
+- How does Github actions relate to this?
